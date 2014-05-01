@@ -1,0 +1,24 @@
+# Users
+
+This is a document which should outline the various types of users who are expected to be interacting with the system. Quoted sections are from [Challenge Post posting][cp].
+
+[cp]:http://erwlandmineapps.challengepost.com/
+
+## Local Officials
+
+> In many places where ERW/land mines are prevalent, only local officials will have access to mobile phones, and will only report when they are back in range of a cell tower, depending on sophistication of the mobile communications grid. Therefore, the technology solution should address the need for asynchronous use – questions about ERW/land mines are answered and stored for later transmission to appropriate authorities.
+
+## Civilians
+
+There are probably different types of civilians, so there will probably be sub-types. For example, agricultural farmers vs city dwellers.
+
+> People who are more likely to find ERW and land mines in their normal day-to-day lives are mostly in the rural communities, are more likely to be working in the agriculture where they have to utilize land resources daily, and are likely to have limited education/low rates or literacy.
+
+## National Authorities
+
+These authorities are alluded to in the challenge description.
+> Application should allow data to go to the relevant National Authority, unusually a Mine Action Centre or a Government Ministry. The data recorded should be designed to allow easy entry into IMSMA (Integrated Management System for Mine Action) which is the most commonly used management system in MACs around the world.
+
+So it should be safe to assume these people use [IMSMA][IMSMA].
+
+[IMSMA]:http://www.nra.gov.la/imsmadatabace.html
