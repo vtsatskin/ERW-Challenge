@@ -95,3 +95,25 @@ which could contain a landmine.
 - Local symbols
   - Two sticks making a cross
   - Rocks in a formation
+
+## People to contact
+- UN Field Security Officers
+- NGOs
+- Local Mine Action Centres
+- Demining Organizations
+- Private Voluntary Organisations
+- Locals
+  - Authorities
+  - Leaders
+
+## What to do when seeing an ERW
+1. Stop all movement immediately. Landmines are seldom lonely.
+2. Warn others around you
+3. Report the landmine
+
+## What to do when in a minefield
+1. Do not move
+2. Tell others not to move
+3. Use radio or phone to contact
+4. Check area around you without moving
+5. Wait until a specialist arrives
